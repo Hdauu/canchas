@@ -2,7 +2,7 @@
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     require_once __DIR__ . '/../models/Connection.php';
     require_once __DIR__ . '/../models/UsersModel.php';
-    require_once __DIR__. '/../helpers/validations.php';
+    require_once __DIR__ . '/../helpers/validations.php';
 
     $username = cleanString($_POST['username']);
     $password = cleanString($_POST['password']);
@@ -24,3 +24,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 } else {
     echo "Error: El formulario debe ser enviado por POST.";
 }
+
