@@ -46,6 +46,9 @@ Inicia el servidor local:
 
 
 💻 Uso
+
+    SI TENES ALGUN TIPO DE ERROR ES XQ NO INSTALASTE LAS DEPENDENCIAS DDDE NODE (BULMA) EN TU LOCAL!!!!!!!!!
+
 Reservas: Navega a la sección de reservas para ver las canchas disponibles, seleccionar un horario, y confirmar la reserva.
 Administración: Si tienes permisos de administrador, accede a la sección de administración para gestionar usuarios y canchas.
 🛠️ Contribuir
