@@ -51,16 +51,6 @@ Inicia el servidor local:
 
 Reservas: Navega a la sección de reservas para ver las canchas disponibles, seleccionar un horario, y confirmar la reserva.
 Administración: Si tienes permisos de administrador, accede a la sección de administración para gestionar usuarios y canchas.
-🛠️ Contribuir
-¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
-Crea una nueva rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
-Sube la rama (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request en GitHub.
-📝 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 👥 Autores
 Hdauu - Desarrollador principal del proyecto. Visita su GitHub.
